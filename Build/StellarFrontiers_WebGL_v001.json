@@ -1,10 +1,9 @@
 {
 "companyName": "Infinity",
-"productName": "GalaxyShooter",
+"productName": "Stellar Frontiers",
 "dataUrl": "StellarFrontiers_WebGL_v001.data.unityweb",
-"asmCodeUrl": "StellarFrontiers_WebGL_v001.asm.code.unityweb",
-"asmMemoryUrl": "StellarFrontiers_WebGL_v001.asm.memory.unityweb",
-"asmFrameworkUrl": "StellarFrontiers_WebGL_v001.asm.framework.unityweb",
+"wasmCodeUrl": "StellarFrontiers_WebGL_v001.wasm.code.unityweb",
+"wasmFrameworkUrl": "StellarFrontiers_WebGL_v001.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
